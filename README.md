@@ -1,4 +1,4 @@
-# componentszjw
+# 组件化练习
 
 ## Project setup
 ```
